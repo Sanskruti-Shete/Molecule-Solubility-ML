@@ -6,4 +6,4 @@ This project involves developing a machine learning model to predict the solubil
 
 The model takes molecular representations, typically in the form of SMILES strings, and computes a range of descriptors to use as input features. Various regression algorithms are explored and evaluated to determine the best-performing model in terms of predictive accuracy.
 
-This project includes data preprocessing, feature extraction using cheminformatics tools, model training, evaluation, and visualization of results. It serves as a foundation for more advanced applications in computational chemistry and drug discovery.
+This project includes data preprocessing methods, feature extraction using cheminformatics tools, model training, evaluation, and visualization of results. It serves as a foundation for more advanced applications in computational chemistry and drug discovery.
